@@ -199,18 +199,18 @@ const featuredRooms = [
 
 const testimonials = [
   {
-    name: "Carlos Silva",
-    location: "São Paulo, SP",
-    text: "Uma experiência incrível! O atendimento foi impecável e os quartos são extremamente confortáveis. Voltarei com certeza!",
+    name: "Thaisa Carla Mota",
+    location: "Avaliação feita pelo Google",
+    text: "Pessoal acolhedor desde a recepção até às copeiras. Café da manhã impecável. Eu adorei o café da manhã, muita variedade e muito delicioso. Parabéns! ",
   },
   {
-    name: "Ana Oliveira",
-    location: "Rio de Janeiro, RJ",
-    text: "O CasaBlanca Palace Hotel superou todas as minhas expectativas. A localização é perfeita e o café da manhã é maravilhoso.",
+    name: "Tati Lacerda",
+    location: "Avaliação feita pelo Google",
+    text: "Melhor café da manhã que já comi! Quartos limpos e muito confortáveis, bem distribuídos, recepcionistas atenciosos, roupa de cama muito cheirosa, estacionamento amplo.",
   },
   {
-    name: "Roberto Mendes",
-    location: "Belo Horizonte, MG",
-    text: "Ficamos hospedados por uma semana e foi uma estadia perfeita. Equipe atenciosa e instalações de primeira qualidade.",
+    name: "Polyana Martins",
+    location: "Avaliação feita pelo Google",
+    text: "Hotel aconchegante, Quartos novos, ar condicionado E chuveiro bons! E o atendimento foi Top, pessoal super preocupado com sua preferência! Alguns quartos tem sacada",
   },
 ]
